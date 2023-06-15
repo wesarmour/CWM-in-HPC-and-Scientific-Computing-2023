@@ -16,3 +16,4 @@
 !.gitignore
 !*.md
 !*.pdf
+!*.cu
